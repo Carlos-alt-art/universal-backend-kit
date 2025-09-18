@@ -8,6 +8,9 @@ A partir de esta vesrión de python se pude tipar las variebales, es un tipado d
 mas rapido, mas claro
 
 
+Tener encuenta los query y los path
+
+
 
 
 
